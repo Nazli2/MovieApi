@@ -1,0 +1,102 @@
+﻿[
+  {
+    "title": "The Shawshank Redemption",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+    "rating": 9.3,
+    "description": "Andy Dufresne, işlemediği bir suçtan hapse girer ve Shawshank Cezaevi'nde yıllar boyunca umudunu koruyarak hayatta kalmanın yollarını bulur. Dostluk, özgürlük ve insan ruhunun gücü üzerine unutulmaz bir hikaye.",
+    "duration": 142,
+    "releaseDate": "1994-09-23T00:00:00.000Z",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Godfather",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg",
+    "rating": 9.2,
+    "description": "Don Vito Corleone, New York’un en güçlü mafya ailelerinden birinin başıdır. Aile içi sadakat, ihanet ve güç mücadelesi, Michael Corleone’nin karanlık dünyaya adım atmasıyla daha da derinleşir.",
+    "duration": 175,
+    "releaseDate": "1972-03-24T00:00:00.000Z",
+    "createdYear": "1972",
+    "status": true
+  },
+  {
+    "title": "The Dark Knight",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51k0qa6qHPL._AC_.jpg",
+    "rating": 9.0,
+    "description": "Batman, Gotham’ı anarşiye sürüklemek isteyen Joker’e karşı zorlu bir mücadeleye girer. Adalet, fedakârlık ve kaosun sınırlarını zorlayan bu hikâye, süper kahraman filmleri arasında özel bir yere sahiptir.",
+    "duration": 152,
+    "releaseDate": "2008-07-18T00:00:00.000Z",
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Pulp Fiction",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51zUbui+gbL._AC_.jpg",
+    "rating": 8.9,
+    "description": "Los Angeles’ta geçen, suç dünyasına ait iç içe geçmiş hikayeler… Vincent Vega, Jules Winnfield ve Butch Coolidge’in yolları beklenmedik olaylar ve diyaloglarla kesişir. Tarantino’nun kültleşmiş başyapıtı.",
+    "duration": 154,
+    "releaseDate": "1994-10-14T00:00:00.000Z",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "Forrest Gump",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/41cU2t4N4uL._AC_.jpg",
+    "rating": 8.8,
+    "description": "Düşük IQ’suna rağmen inanılmaz bir hayat yaşayan Forrest Gump, çocukluk aşkı Jenny, savaş, spor ve iş dünyası arasında yolculuğa çıkar. Hayatın sürprizlerle dolu olduğunu gösteren ilham verici bir hikâye.",
+    "duration": 142,
+    "releaseDate": "1994-07-06T00:00:00.000Z",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "Inception",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+    "rating": 8.8,
+    "description": "Dom Cobb, insanların rüyalarına girerek bilinçaltından sırlar çalan bir uzmandır. Ancak bu kez imkansız bir görevle karşı karşıyadır: bir fikri ekmek. Gerçeklik ve rüya arasındaki çizgi bulanıklaşır.",
+    "duration": 148,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "Fight Club",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_SY580_.jpg",
+    "rating": 8.8,
+    "description": "Uyku sorunları yaşayan bir adam, gizemli Tyler Durden ile tanışır ve yeraltı dövüş kulübü kurar. Ancak işler kontrolden çıkar, kimlik ve varoluş üzerine çarpıcı bir psikolojik yolculuğa dönüşür.",
+    "duration": 139,
+    "releaseDate": "1999-10-15T00:00:00.000Z",
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "The Matrix",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+    "rating": 8.7,
+    "description": "Neo, yaşadığı dünyanın gerçekte bir simülasyon olduğunu öğrenir. Morpheus ve Trinity ile birlikte insanlığı makinelerin esaretinden kurtarmak için mücadele verir. Bilim kurgunun dönüm noktası.",
+    "duration": 136,
+    "releaseDate": "1999-03-31T00:00:00.000Z",
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+    "rating": 8.8,
+    "description": "Genç hobbit Frodo, karanlık güçleri barındıran yüzüğü yok etmek için tehlikeli bir yolculuğa çıkar. Orta Dünya’nın kaderi, Yüzük Kardeşliği’nin cesareti ve sadakatiyle şekillenecektir.",
+    "duration": 178,
+    "releaseDate": "2001-12-19T00:00:00.000Z",
+    "createdYear": "2001",
+    "status": true
+  },
+  {
+    "title": "Interstellar",
+    "coverImageUrl": "https://m.media-amazon.com/images/I/71yAzOnbRUL._AC_SL1024_.jpg",
+    "rating": 8.6,
+    "description": "Dünya yaşanmaz hale gelirken, bir grup astronot insanlık için yeni bir yuva bulmak amacıyla galaksiler arası yolculuğa çıkar. Zaman, sevgi ve fedakârlık temalarını işleyen destansı bir bilim kurgu.",
+    "duration": 169,
+    "releaseDate": "2014-11-07T00:00:00.000Z",
+    "createdYear": "2014",
+    "status": true
+  }
+]
